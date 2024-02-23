@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benalaluf&theme=dark" alt="Ben's GitHub stats" height="250"> 
+</p>
+
+---
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,linux,vim,git,raspberrypi,arduino,apple,clion,notion&theme=dark)](https://skillicons.dev)
 
 <p align="left">
