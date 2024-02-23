@@ -4,12 +4,14 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benalaluf&rank_icon=percentile&theme=dark" alt="Ben's GitHub stats" height="200"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benalaluf&layout=compact&theme=dark" alt="Top Langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=benalaluf&rank_icon=percentile&theme=dark" alt="Ben's GitHub stats" height="220"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benalaluf&layout=compact&theme=dark" alt="Top Langs" height="220">
 </p>
 
 ---
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,linux,vim,git,raspberrypi,arduino,apple,clion,notion&theme=dark)](https://skillicons.dev)
 
 <p align="left">
