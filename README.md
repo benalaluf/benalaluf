@@ -10,7 +10,8 @@
 </p>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,vim,raspberrypi,apple,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,linux,vim,git,raspberrypi,arduino,apple,clion,notion&theme=dark)](https://skillicons.dev)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benalaluf" alt="Profile Views">
 </p>
